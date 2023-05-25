@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshubhk&label=Profile%20views&color=0e75b6&style=flat" alt="imshubhk" /> </p>
 
-- 🔭 I’m currently studying computer science [TournaTrack](https://tournatrack.netlify.app/)
+- 🔭 I’m currently working on my project [TournaTrack](https://tournatrack.netlify.app/)
 
 - 🌱 I’m currently learning apart from my curriculum **Web3,Blockchain**
 
