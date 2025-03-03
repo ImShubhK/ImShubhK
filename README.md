@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my project [TournaTrack](https://tournatrack.netlify.app/)
 
-- 🌱 I’m currently learning **Artificial intelligence and Machine learning**
+- 🌱 I’m currently learning **Generative Ai and Building AI agents**
 
 
 - 📫 How to reach me **shu875758kumar@gmail.com**
